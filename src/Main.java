@@ -13,6 +13,6 @@ public class Main {
         result = number1*number2;
         System.out.println("Произведение чисел= " + result);
         double result1 = (double)number1/number2;
-        System.out.println("Частное чисел= " + result1);
+        System.out.println("Частное от чисел= " + result1);
     }
 }
