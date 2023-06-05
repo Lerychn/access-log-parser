@@ -20,6 +20,6 @@ public class Main {
                 System.out.println("Это файл номер "+count);
             }
         }
-        while (x!=5);
+        while (true);
     }
 }
